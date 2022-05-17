@@ -1,9 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1c3469&size=30&width=900&lines=¡Hola!+Mi+nombre+es+Adrián+y+me+gustan+los+algoritmos+y+los+perritos+chatos.)](https://git.io/typing-svg)
 <h2 align="center"> Formación </h2>
-- Técnico en computación por la universidad **Asbeman**.
-- Cursos de introducción a *R* y Ciencias de Datos por **DataCamp**.
-- Profesional en [Ciencias de Datos/IA](https://devf.la/master/data/pu) por **DEV.F**.
-- Estudiante de [Ciencias de la Computación](https://www.fciencias.unam.mx/estudiar-en-ciencias/estudios/licenciaturas/ccomputacion) en la [Facultad de Ciencias](https://www.fciencias.unam.mx/) de la **UNAM**.
+<ul>
+<li type="square">Técnico en computación por la universidad **Asbeman**.</li>
+<li type="square">Cursos de introducción a *R* y Ciencias de Datos por **DataCamp**.</li>
+<li type="square">Profesional en [Ciencias de Datos/IA](https://devf.la/master/data/pu) por **DEV.F**.</li>
+<li type="square">Estudiante de [Ciencias de la Computación](https://www.fciencias.unam.mx/estudiar-en-ciencias/estudios/licenciaturas/ccomputacion) en la [Facultad de Ciencias](https://www.fciencias.unam.mx/) de la **UNAM**.</li>
+</ul>
 
 <h2 align="center"> Datos productivos </h2>
  <div align=center>
