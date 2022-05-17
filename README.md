@@ -31,7 +31,7 @@
 
 <hr>
 
-<h2 align="center">👨‍💻 Repositorios 👨‍💻</h2>
+<h2 align="center">👨‍💻 Repositorios prácticos 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Aguilera450/ModelingAndProgramming" title="Modelado-y-programación.
@@ -42,12 +42,27 @@
 <br/>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Aguilera450/ModelingAndProgramming" title="Modelado-y-programación.
-"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Aguilera450&repo=ModelingAndProgramming&theme=algolia&border_color=61dafb&border_radius=10"></a>
-<a align="left" href="https://github.com/Aguilera450/ModelingAndProgramming" title="Modelado-y-programación.
-"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Aguilera450&repo=ModelingAndProgramming&theme=algolia&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Aguilera450/Data_Structure" title="Esturcturas-de-Datos.
-"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Aguilera450&repo=Data_Structure&theme=algolia&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Aguilera450/Practicas_LC" title="LC.
+"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Aguilera450&repo=Practicas_LC&theme=algolia&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Aguilera450/Course_DS" title="DS/IA.
+"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Aguilera450&repo=Course_DS&theme=algolia&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/>
+<br><br><br><br>
+
+<h2 align="center">📚 Repositorios teóricos 📚</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Aguilera450/Graficas_Algoritmos." title="Gráficas_Algoritmos.
+"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Aguilera450&repo=Graficas_Algoritmos&theme=algolia&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Aguilera450/Computational_Logic" title="LC.
+"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Aguilera450&repo=Computational_Logic&theme=algolia&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Aguilera450/Automata_and_Formal_Languages." title="AyLF.
+"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Aguilera450&repo=Automata_and_Formal_Languages.&theme=algolia&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/>
 <br><br><br><br>
