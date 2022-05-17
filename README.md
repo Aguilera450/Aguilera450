@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1c3469&size=30&width=900&lines=¡Hola!+Mi+nombre+es+Adrián;Estudio+Ciecias+de+la+Computación+en+la+UNAM;Me+gustan+los+algoritmos;Me+gustan+los+perritos+chatos.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1c3469&size=30&width=900&lines=¡Hola!+Mi+nombre+es+Adrián.;Estudio+Ciecias+de+la+Computación+en+la+UNAM.;Me+gustan+los+algoritmos.;Me+gustan+los+perritos+chatos.)](https://git.io/typing-svg)
 <h2 align="center"> Formación </h2>
 <ul>
 <li type="square">Técnico en computación por la universidad **Asbeman**.</li>
