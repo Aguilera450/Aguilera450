@@ -1,8 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1c3469&size=30&width=900&lines=¡Hola!+Mi+nombre+es+Adrián+y+me+gustan+los+algoritmos+y+los+perritos+chatos.)](https://git.io/typing-svg)
-# Formación
+<h2 align="center"> Formación </h2>
 - Técnico en computación por la universidad **Asbeman**.
 - Cursos de introducción a *R* y Ciencias de Datos por **DataCamp**.
-- Profesional en Ciencias de Datos/IA por **DEV.F**.
+- Profesional en [Ciencias de Datos/IA](https://devf.la/master/data/pu) por **DEV.F**.
+- Estudiante de [Ciencias de la Computación](https://www.fciencias.unam.mx/estudiar-en-ciencias/estudios/licenciaturas/ccomputacion) en la [Facultad de Ciencias](https://www.fciencias.unam.mx/) de la **UNAM**.
 
 <h2 align="center"> Datos productivos </h2>
  <div align=center>
@@ -34,6 +35,16 @@
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Aguilera450/ModelingAndProgramming" title="Modelado-y-programación.
+"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Aguilera450&repo=ModelingAndProgramming&theme=algolia&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Aguilera450/Data_Structure" title="Esturcturas-de-Datos.
+"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Aguilera450&repo=Data_Structure&theme=algolia&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Aguilera450/ModelingAndProgramming" title="Modelado-y-programación.
+"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Aguilera450&repo=ModelingAndProgramming&theme=algolia&border_color=61dafb&border_radius=10"></a>
+<a align="left" href="https://github.com/Aguilera450/ModelingAndProgramming" title="Modelado-y-programación.
 "><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Aguilera450&repo=ModelingAndProgramming&theme=algolia&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/Aguilera450/Data_Structure" title="Esturcturas-de-Datos.
 "><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Aguilera450&repo=Data_Structure&theme=algolia&border_color=61dafb&border_radius=10"></a>
