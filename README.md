@@ -13,7 +13,6 @@
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aguilera450&langs_count=8&hide=C&layout=compact&theme=algolia" />
     </a>
   </div>
-    <br><br><br><br><br><br><br><br><br>
 <br>
 <p align=center>
   <div align=center>
@@ -24,6 +23,7 @@
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=Aguilera450&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=algolia" />
     </a>
   </div>
+    <br><br><br><br><br><br><br><br><br>
 </p>
 
 <hr>
