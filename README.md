@@ -53,8 +53,8 @@
 <h2 align="center">📚 Repositorios teóricos 📚</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Aguilera450/Graficas_Algoritmos." title="Gráficas_Algoritmos.
-"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Aguilera450&repo=Graficas_Algoritmos&theme=algolia&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Aguilera450/Graficas_Algoritmos." title="Graficas_Algoritmos.
+"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Aguilera450&repo=Graficas_Algoritmos.&theme=algolia&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/Aguilera450/Computational_Logic" title="LC.
 "><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Aguilera450&repo=Computational_Logic&theme=algolia&border_color=61dafb&border_radius=10"></a>
 </div>
