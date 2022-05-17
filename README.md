@@ -34,9 +34,9 @@
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Aguilera450/ModelingAndProgramming" title="Modelado-y-programación.
-"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Aguilera450&repo=Modelado-y-Programación&theme=algolia&border_color=61dafb&border_radius=10"></a>
+"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Aguilera450&repo=ModelingAndProgramming&theme=algolia&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/Aguilera450/Data_Structure" title="Esturcturas-de-Datos.
-"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Aguilera450&repo=Esturcturas-de-Datos&theme=algolia&border_color=61dafb&border_radius=10"></a>
+"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Aguilera450&repo=Data_Structure&theme=algolia&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/>
 <br><br><br><br>
