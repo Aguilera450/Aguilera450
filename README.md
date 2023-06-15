@@ -10,20 +10,11 @@
 <h2 align="center"> Datos productivos </h2>
  <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aguilera450&langs_count=10&hide=C&layout=compact&theme=algolia" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aguilera450&langs_count=9&hide=C&layout=compact&theme=algolia" />
     </a>
   </div>
 
 <br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=Aguilera450&theme=algolia&border=61dafb&hide_border=true" alt="aguilera450" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=Aguilera450&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=algolia" />
-    </a>
-  </div>
     <br><br><br><br><br><br><br><br><br>
 </p>
 
