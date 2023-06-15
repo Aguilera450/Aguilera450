@@ -24,8 +24,8 @@
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Aguilera450/ModelingAndProgramming" title="Modelado-y-programación.
 "><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Aguilera450&repo=ModelingAndProgramming&theme=algolia&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Aguilera450/Compilers" title="Compiladores.
-"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Aguilera450&repo=Compilers&theme=algolia&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Aguilera450/Proyecto2" title="Proyecto2.
+"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Aguilera450&repo=Proyecto2&theme=algolia&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/>
 <br>
@@ -46,8 +46,6 @@
 <div width="100%" align="center">
   <a align="left" href="https://github.com/UNAM-fciencias/pintos-codebase-cmamu" title="OS.
 "><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=UNAM-fciencias&repo=pintos-codebase-cmamu&theme=algolia&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Aguilera450/Proyecto2" title="Proyecto2.
-"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Aguilera450&repo=Proyecto2&theme=algolia&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/>
 <br><br><br><br>
@@ -65,6 +63,8 @@
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Aguilera450/Automata_and_Formal_Languages." title="AyLF.
 "><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Aguilera450&repo=Automata_and_Formal_Languages.&theme=algolia&border_color=61dafb&border_radius=10"></a>
+<a align="right" href="https://github.com/Aguilera450/Compilers" title="Compiladores.
+"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Aguilera450&repo=Compilers&theme=algolia&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/>
 <br><br><br><br>
