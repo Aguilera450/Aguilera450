@@ -10,12 +10,11 @@
 <h2 align="center"> Datos productivos </h2>
  <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aguilera450&langs_count=9&hide=C&layout=compact&theme=algolia" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aguilera450&langs_count=10&hide=C&layout=compact&theme=algolia" />
     </a>
   </div>
 
 <br>
-    <br><br><br><br><br><br><br><br><br>
 </p>
 
 <hr>
@@ -25,7 +24,7 @@
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Aguilera450/ModelingAndProgramming" title="Modelado-y-programación.
 "><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Aguilera450&repo=ModelingAndProgramming&theme=algolia&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Aguilera450/Compilers" title="Compiladores.
+  <a align="right" href="https://github.com/Aguilera450/Compiler" title="Compiladores.
 "><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Aguilera450&repo=Compilers&theme=algolia&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/>
