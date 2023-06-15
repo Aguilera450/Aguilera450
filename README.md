@@ -67,6 +67,25 @@
 "><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Aguilera450&repo=Compilers&theme=algolia&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/>
+
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Aguilera450/Algorithms_Analysis" title="Algoritmos.
+"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Aguilera450&repo=Algorithms_Analysis&theme=algolia&border_color=61dafb&border_radius=10"></a>
+<a align="right" href="https://github.com/Aguilera450/Algorithms2" title="AlgoritmosII.
+"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Aguilera450&repo=Algorithms2&theme=algolia&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/>
+
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Aguilera450/GeometryComputational" title="GeometríaComputacional.
+"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Aguilera450&repo=GeometryComputational&theme=algolia&border_color=61dafb&border_radius=10"></a>
+<a align="right" href="https://github.com/Aguilera450/Lenguajes_Programaci-n" title="LenguajesProgramación.
+"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Aguilera450&repo=Lenguajes_Programaci-n&theme=algolia&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/>
+
 <br><br><br><br>
 
 <hr>
