@@ -47,7 +47,7 @@
   <a align="left" href="https://github.com/Aguilera450/Practicas_LC" title="LC.
 "><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Aguilera450&repo=Practicas_LC&theme=algolia&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/Ingenieria-de-Software-Borbotones/OperacionChelas" title="Ingeniería.
-"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=https://github.com/Ingenieria-de-Software-Borbotones&repo=OperacionChelas&theme=algolia&border_color=61dafb&border_radius=10"></a>
+"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Ingenieria-de-Software-Borbotones&repo=OperacionChelas&theme=algolia&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/>
 <br><br><br><br>
