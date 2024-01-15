@@ -9,7 +9,7 @@
 <h2 align="center"> Datos productivos </h2>
  <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aguilera450&langs_count=10&hide=C&layout=compact&theme=algolia" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aguilera450&langs_count=9&hide=C&layout=compact&theme=algolia" />
     </a>
   </div>
 
@@ -21,8 +21,17 @@
 <h2 align="center">👨‍💻 Repositorios prácticos 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
+  <a align="left" href="https://github.com/Aguilera450/Almacenes-y-Mineria-de-Datos" title="Almacenes y Minería de Datos.
+"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Aguilera450&repo=Almacenes-y-Mineria-de-Datos&theme=algolia&border_color=61dafb&border_radius=10"></a>
   <a align="left" href="https://github.com/Aguilera450/ModelingAndProgramming" title="Modelado-y-programación.
 "><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Aguilera450&repo=ModelingAndProgramming&theme=algolia&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/>
+
+<br>
+<div width="100%" align="center">
+  <a align="right" href="https://github.com/Aguilera450/RdC" title="Redes de Computadoras.
+"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Aguilera450&repo=RdC&theme=algolia&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/Aguilera450/Proyecto2" title="Proyecto2.
 "><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Aguilera450&repo=Proyecto2&theme=algolia&border_color=61dafb&border_radius=10"></a>
 </div>
