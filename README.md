@@ -3,7 +3,6 @@
 <ul>
 <li type="square">Técnico en computación por la universidad **Asbeman**.</li>
 <li type="square">Cursos de introducción a *R* y Ciencias de Datos por **DataCamp**.</li>
-<li type="square">Profesional en <a href="https://devf.la/master/data/pu">Ciencias de Datos/IA</a> por **DEV.F**.</li>
 <li type="square">Estudiante de <a href="https://www.fciencias.unam.mx/estudiar-en-ciencias/estudios/licenciaturas/ccomputacion">Ciencias de la Computación</a> en la <a href="https://www.fciencias.unam.mx/">Facultad de Ciencias</a> de la **UNAM**.</li>
 </ul>
 
