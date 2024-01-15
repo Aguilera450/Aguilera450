@@ -27,7 +27,6 @@
 "><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Aguilera450&repo=ModelingAndProgramming&theme=algolia&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/>
-
 <br>
 <div width="100%" align="center">
   <a align="right" href="https://github.com/Aguilera450/Proyecto2" title="Proyecto2.
@@ -36,7 +35,6 @@
 "><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Data-G17A&repo=Proyecto-Modulo2&theme=algolia&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/>
-
 <br>
 <div width="100%" align="center">
   <a align="right" href="https://github.com/Ingenieria-de-Software-Borbotones/OperacionChelas" title="Ingeniería.
@@ -45,7 +43,6 @@
 "><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=UNAM-fciencias&repo=pintos-codebase-cmamu&theme=algolia&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/>
-
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Aguilera450/Practicas_LC" title="LC.
